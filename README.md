@@ -1,5 +1,5 @@
 ## Environment Requirement
-The code has been tested running under Python 3.5. The required packages are as follows:
+The code has been tested under Python 3.5. The required packages are as follows:
 * pytorch
 * numpy
 * scipy
